@@ -1,1 +1,19 @@
 # dummies
+
+
+fastembed==0.8.1
+gradio==6.29.0
+ipykernel==7.4.0
+langchain-huggingface==1.2.2
+langchain-ollama==1.1.0
+langchain-qdrant==1.1.0
+langchain-text-splitters==1.1.2
+langfuse==4.16.0
+langgraph==1.2.12
+matplotlib==3.11.2
+pymupdf4llm==1.28.2
+python-dotenv==1.2.4
+ragas==0.4.3
+seaborn==0.13.2
+sentence-transformers==6.1.0
+tiktoken==0.14.0

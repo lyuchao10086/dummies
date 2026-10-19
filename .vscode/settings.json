@@ -1,10 +1,11 @@
 {
     "python-envs.defaultEnvManager": "ms-python.python:conda",
     "python-envs.defaultPackageManager": "ms-python.python:conda",
-    "python.defaultInterpreterPath": " /Users/lyuchao/anaconda3/envs/lang/python.exe",
+    "python.defaultInterpreterPath": " /Users/lyuchao/anaconda3/envs/lang/python",
     "python.terminal.activateEnvironment": true,
     "files.exclude": {
-        ".env": true,
+        "env": true,
+        "__pycache__/": true,
         ".gitignore": true,
     },
 }
